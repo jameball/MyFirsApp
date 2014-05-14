@@ -17,6 +17,11 @@ public class MyFirsApp {
      */
     public static void main(String[] args) {
         System.out.println("Heloo World");
+        System.out.println("55021452");
+        
+        
+        System.out.println("IT");
+        System.out.println("UP55");
     }
     
 }
